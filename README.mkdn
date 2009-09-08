@@ -12,7 +12,7 @@
 
 ## What is missing?
 
-*More email related customizations based on diffrent Web Hostings.
+* Email related customizations based on diffrent Web Hostings.
 
 ## How to install?
 
@@ -28,9 +28,10 @@ Please keep in touch! It is fast and easy. Just leave a comment here:
 
 [Trainer On Rails][tr]
 
-## I suggest two resources on this project:
+## I suggest two resources on this project
 
 * Web Hosting [Dream Host][dh]
+
 * Hit Counter [Website-Hit-Counters][whc]
 
 
