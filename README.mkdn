@@ -1,0 +1,39 @@
+# My Domain Beta Page
+
+## What is it?
+
+*First of all, this is a very simple project.
+
+*It doesn't use any CSS, just W3C compliant XHTML
+
+*The primary goal is to get rid of the classic "Under Construction" page.
+
+*It gives You the chance to get your domain up front before your definitive page.
+
+## What is missing?
+
+*More email related customizations based on diffrent Web Hostings.
+
+## How to install?
+
+*Just update the files with your needs.
+
+*Copy the files and directories into your home domain folder.
+
+*If Your domain is not new, and You have any broken link UNDER the home domain folder, use the "lost_link" folder to fix that, You just need to rename it accordingly. 
+
+## Tips, comments, feedback, suggestions and BUG reports are welcome.
+
+Please keep in touch! It is fast and easy. Just leave a comment here:
+
+[Trainer On Rails][tr]
+
+## I suggest two resources on this project:
+
+*Web Hosting [Dream Host][dh]
+*Hit Counter [Website-Hit-Counters][whc]
+
+
+[tr]: http://www.traineronrails.com/
+[dh]: http://www.dreamhost.com/r.cgi?435533
+[whc]: http://www.website-hit-counters.com/
