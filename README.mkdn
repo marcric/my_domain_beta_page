@@ -28,7 +28,7 @@ Please keep in touch! It is fast and easy. Just leave a comment here:
 
 [Trainer On Rails][tr]
 
-## I suggest two resources on this project
+## I suggest two resources in this project
 
 * Web Hosting [Dream Host][dh]
 
